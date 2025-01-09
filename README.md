@@ -48,149 +48,149 @@ The database has 2 versions: a JSON one and an XML one, they both contain the sa
     "domicile_country": "Ireland",
     "currency": "USD",
     "hedged": "false",
-    "securities_lending": "true",
+    "securities_lending": true,
     "dividends": "Accumulating",
-    "ter": "0.2",
+    "ter": 0.2,
     "replication": "Optimized sampling",
-    "size": "89564",
-    "is_sustainable": "false",
-    "number_of_holdings": "1409",
+    "size": 89564,
+    "is_sustainable": false,
+    "number_of_holdings": 1409,
     "strategies": ["Long-only"],
     "index": "MSCI World",
     "fund_provider": "iShares",
     "sectors": [
         {
             "name": "Technology",
-            "percentage": "27.21"
+            "percentage": 27.21
         },
         {
             "name": "Financials",
-            "percentage": "13.84"
+            "percentage": 13.84
         },
         {
             "name": "Consumer Discretionary",
-            "percentage": "10.71"
+            "percentage": 10.71
         },
         {
             "name": "Industrials",
-            "percentage": "10.16"
+            "percentage": 10.16
         },
         {
             "name": "Health Care",
-            "percentage": "9.97"
+            "percentage": 9.97
         },
         {
             "name": "Telecommunication",
-            "percentage": "7.58"
+            "percentage": 7.58
         },
         {
             "name": "Consumer Staples",
-            "percentage": "5.9"
+            "percentage": 5.9
         },
         {
             "name": "Energy",
-            "percentage": "3.94"
+            "percentage": 3.94
         },
         {
             "name": "Basic Materials",
-            "percentage": "3.0"
+            "percentage": 3.0
         },
         {
             "name": "Other",
-            "percentage": "7.69"
+            "percentage": 7.69
         }
     ],
     "countries": [
         {
             "name": "United States",
-            "percentage": "70.35"
+            "percentage": 70.35
         },
         {
             "name": "Japan",
-            "percentage": "5.2"
+            "percentage": 5.2
         },
         {
             "name": "United Kingdom",
-            "percentage": "3.35"
+            "percentage": 3.35
         },
         {
             "name": "Canada",
-            "percentage": "2.84"
+            "percentage": 2.84
         },
         {
             "name": "Switzerland",
-            "percentage": "2.48"
+            "percentage": 2.48
         },
         {
             "name": "France",
-            "percentage": "2.3"
+            "percentage": 2.3
         },
         {
             "name": "Germany",
-            "percentage": "2.07"
+            "percentage": 2.07
         },
         {
             "name": "Australia",
-            "percentage": "1.74"
+            "percentage": 1.74
         },
         {
             "name": "Ireland",
-            "percentage": "1.44"
+            "percentage": 1.44
         },
         {
             "name": "Other",
-            "percentage": "8.23"
+            "percentage": 8.23
         }
     ],
     "holdings": [
         {
             "name": "Apple",
-            "percentage": "4.99",
+            "percentage": 4.99,
             "isin": "US0378331005"
         },
         {
             "name": "NVIDIA Corp.",
-            "percentage": "4.64",
+            "percentage": 4.64,
             "isin": "US67066G1040"
         },
         {
             "name": "Microsoft Corp.",
-            "percentage": "4.18",
+            "percentage": 4.18,
             "isin": "US5949181045"
         },
         {
             "name": "Amazon.com, Inc.",
-            "percentage": "2.72",
+            "percentage": 2.72,
             "isin": "US0231351067"
         },
         {
             "name": "Meta Platforms",
-            "percentage": "1.74",
+            "percentage": 1.74,
             "isin": "US30303M1027"
         },
         {
             "name": "Alphabet, Inc. A",
-            "percentage": "1.39",
+            "percentage": 1.39,
             "isin": "US02079K3059"
         },
         {
             "name": "Tesla",
-            "percentage": "1.34",
+            "percentage": 1.34,
             "isin": "US88160R1014"
         },
         {
             "name": "Alphabet, Inc. C",
-            "percentage": "1.2",
+            "percentage": 1.2,
             "isin": "US02079K1079"
         },
         {
             "name": "JPMorgan Chase & Co.",
-            "percentage": "0.99",
+            "percentage": 0.99,
             "isin": "US46625H1005"
         },
         {
             "name": "Broadcom Inc.",
-            "percentage": "0.99",
+            "percentage": 0.99,
             "isin": "US11135F1012"
         }
     ],
