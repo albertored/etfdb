@@ -65,6 +65,9 @@ or by using the ones already defined in the sheet:
 This formulas can be easily defined on your personal sheet by going to *Data > Named functions > Import function* and selecting the
 sheet linked above.
 
+If you prefer to not depend on my public sheet you can import the xlsx file on your sheet (*File > Import*)
+or simply make a personal copy of the public one (*File > Make a copy*).
+
 ## Contributing
 
 If you have any suggestion on how to improve the project feel free to open an issue.
